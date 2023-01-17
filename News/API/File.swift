@@ -2,7 +2,7 @@
 //  File.swift
 //  News
 //
-//  Created by Антон Яценко on 12.01.2023.
+//  Created by Антон Яценко on 12.01.2023
 //
 // API endpoint: https://api.spaceflightnewsapi.net/v3/v3/articles
 
